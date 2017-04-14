@@ -20,6 +20,8 @@
 #include <windows.h>
 #include "MaTrixVeil.h"
 #include "MaTrixShape.h"
+#include "MaTrixCheck.h"
+#include "MaTrixGame.h"
 
 // TODO: reference additional headers your program requires here
 
